@@ -6,7 +6,7 @@ h1{
 
 .profile{
   box-sizing: border-box;
-  max-width: 40%;
+  max-width: 95%;
   max-height: 80vh;
 }
 
@@ -14,7 +14,7 @@ h1{
   border: 1px solid black;
   border-radius: 10px;
   padding: 40px 30px;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 .avatar{
